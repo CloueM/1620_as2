@@ -94,7 +94,11 @@ header a {
 }
 
 .note-area {
+  display: flex;
   width: 90%
+}
+.wite-note-area{
+  display: flex;
 }
 
 article {
